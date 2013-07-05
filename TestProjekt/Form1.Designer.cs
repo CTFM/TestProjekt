@@ -16,9 +16,10 @@
             if (disposing && (components != null))
             {
                 components.Dispose();
-            }
+            } 
             base.Dispose(disposing);     
         } 
+
 
         #region Vom Windows Form-Designer generierter Code
 
